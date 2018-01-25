@@ -25,6 +25,7 @@ public class LoginServlet extends HttpServlet
         userDatabase.put("Sarah", "drowssap");
         userDatabase.put("Mike", "wordpass");
         userDatabase.put("John", "green");
+        userDatabase.put("Nilanjan", "Mhatre");
     }
 
     @Override
